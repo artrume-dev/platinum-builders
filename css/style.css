@@ -99,10 +99,14 @@ nav.scrolled {
   flex: 0 0 auto;
 }
 .logo-text {
-  display: inline-flex;
-  align-items: baseline;
-  gap: .3rem;
+  display: flex;
+  flex-direction: column;
+  gap: .05rem;
   color: var(--text);
+  font-size: 1.2rem;
+  line-height: .9;
+  letter-spacing: .08em;
+  text-transform: uppercase;
 }
 .logo-text span { color: inherit; font-style: normal; }
 .nav-links { display: flex; align-items: center; gap: 2rem; list-style: none; }

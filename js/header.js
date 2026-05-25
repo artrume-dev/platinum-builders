@@ -31,7 +31,7 @@
       <div class="nav-inner">\
         <a href="index.html" class="logo">\
           <img src="images/platinum-builders-logo.png" alt="" class="logo-mark" aria-hidden="true" />\
-          <span class="logo-text">Platinum <span>Builders</span></span>\
+          <span class="logo-text"><span>Platinum</span><span>Builders</span></span>\
         </a>\
         <ul class="nav-links">' + linkMarkup(false) + '</ul>\
         <div class="nav-ctas">\
